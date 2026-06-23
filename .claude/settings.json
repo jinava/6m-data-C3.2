@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/jinava/docs/**)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
